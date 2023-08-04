@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-![what I look like](images/headshot.JPEG)
+<img src="images/headshot.JPEG" alt="what I look like" width="200"/>
 
 ## about ##
 I'm a 3rd-year PhD student in Linguistics at the University of Chicago. My research interests are in semantics, pragmatics, and psycholinguistics. Lately I've been working on the semantics of exclusive modifiers.
