@@ -11,4 +11,4 @@ I'm a 3rd-year PhD student in Linguistics at the University of Chicago. My resea
 
 I'm a member of the [Language Processing Lab](https://lucian.uchicago.edu/blogs/lpl/) and the [Computational Linguistics Lab](https://uchicagocompling.github.io/). 
 
-lfagen AT uchicago DOT edu
+lfagen AT uchicago DOT edu | [Google Scholar](https://scholar.google.com/citations?user=W3f-kgsAAAAJ&hl=en&oi=ao)
