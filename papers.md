@@ -1,5 +1,5 @@
 ---
-title: research
+title: papers
 layout: default
 nav_order: 2
 ---
