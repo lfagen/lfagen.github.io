@@ -8,7 +8,7 @@ github_repo_url: "https://lfagen.github.io" # EDIT: REPLACE WITH THE URL TO YOUR
 # allowing users to deep link to a particular heading on a page. (true or false)
 heading_anchors: false
 search_enabled: false
-
+color_scheme: dark
 # Activate a "Back to top" link
 #back_to_top: true
 #back_to_top_text: "Back to top"
