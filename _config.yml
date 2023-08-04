@@ -1,4 +1,4 @@
-title: lucas fagen
+title: Lucas Fagen
 description: lucas fagen's personal website
 
 remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
@@ -7,6 +7,7 @@ github_repo_url: "https://lfagen.github.io" # EDIT: REPLACE WITH THE URL TO YOUR
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
 heading_anchors: true
+search_enabled: false
 
 # Activate a "Back to top" link
 #back_to_top: true
