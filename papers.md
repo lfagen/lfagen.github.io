@@ -6,7 +6,7 @@ nav_order: 2
 
 ## papers ##
 
-[2023]. **Lucas Fagen**. Numerals are doubly bounded: evidence from exclusives and polarity. *Proceedings of NELS 53* to appear. [pdf](papers/exclusives-polarity-numerals-nels2023.pdf)
+[2023]. **Lucas Fagen**. Numerals are doubly bounded: evidence from exclusives and polarity. *Proceedings of NELS 53*. [pdf](papers/exclusives-polarity-numerals-nels2023.pdf)
 
 [2022]. **Lucas Fagen**. A scalar analysis of polarity contrasts between exclusive modifiers. *Proceedings of the 23rd Amsterdam Colloquium*. [pdf](papers/exclusives-polarity-ac2022.pdf)
 
