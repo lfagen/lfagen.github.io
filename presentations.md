@@ -6,7 +6,7 @@ nav_order: 3
 
 ## presentations ##
 
-[2024]. **Lucas Fagen** & Elitzur Bar-Asher Siegal. Just cumulative predicates get a sufficiency reading. Poster presented at SuB 29. [slides](slides/sub2024-poster.pdf)
+[2024]. **Lucas Fagen** & Elitzur Bar-Asher Siegal. Just cumulative predicates get a sufficiency reading. Poster presented at SuB 29. [poster](slides/sub2024-poster.pdf)
 
 [2024]. **Lucas Fagen** & Ming Xiang. Pronominal and reflexive resolution in noncomplementary environments. Talk presented at LSA 98. [slides](slides/lsa2024-slides.pdf)
 
