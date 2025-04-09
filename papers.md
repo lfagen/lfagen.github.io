@@ -6,7 +6,7 @@ nav_order: 2
 
 ## papers ##
 
-[2025]. **Lucas Fagen** & Elitzur Bar-Asher Siegal. Minimal sufficiency, plural predication, and scalarity. *Proceedings of Sinn und Bedeutung 29* to appear. [pdf](papers/minimal-sufficiency-sub2025.pdf)
+[2025]. **Lucas Fagen** & Elitzur Bar-Asher Siegal. Minimal sufficiency, plural predication, and scalarity. *Proceedings of Sinn und Bedeutung 29*. [pdf](papers/minimal-sufficiency-sub2025.pdf)
 
 [2025]. Eszter Ronai & **Lucas Fagen**. Experimental evidence for variation across exclusive modifiers. *Glossa: a journal of general linguistics* 10.1.1-22. [link](https://doi.org/10.16995/glossa.16797) [pdf](papers/exclusives-scalar-diversity-glossa2025.pdf)
 
