@@ -6,7 +6,7 @@ nav_order: 3
 
 ## presentations ##
 
-[026]. **Lucas Fagen**. Order selection: the logical foundations of exhaustivity. Doctoral defense at the University of Chicago. [handout](slides/defense.pdf)
+[2026]. **Lucas Fagen**. Order selection: the logical foundations of exhaustivity. Doctoral defense at the University of Chicago. [handout](slides/defense.pdf)
 
 [2025]. Sanghee J. Kim, **Lucas Fagen** & Ming Xiang. Variation in reflexive processing across constructions and individuals. Poster presented at HSP 38. [poster](slides/hsp2025-poster.pdf)
 
