@@ -20,4 +20,4 @@ nav_order: 2
 
 ## dissertation ##
 
-[2026]. Order selection: the logical foundations of exhaustivity. University of Chicago PhD thesis. [pdf](papers/thesis.pdf)
+[2026]. Order selection: the logical foundations of exhaustivity. University of Chicago PhD thesis. [link](https://doi.org/10.6082/512p9-z0g46) [pdf](papers/thesis.pdf)
