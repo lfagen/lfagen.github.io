@@ -6,7 +6,7 @@ nav_order: 3
 
 ## presentations ##
 
-[2026]. Order selection: the logical foundations of exhaustivity. Talk presented at PhLiP 11. [handout](slides/phlip2026-handout.pdf)
+[2026]. Order selection: the logical foundations of exhaustivity. Talk presented at PhLiP 11. [handout](slides/orderselection-handout.pdf)
 
 [2026]. Order selection: the logical foundations of exhaustivity. Doctoral defense at the University of Chicago. [handout](slides/defense.pdf)
 
