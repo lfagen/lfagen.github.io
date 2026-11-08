@@ -6,9 +6,9 @@ nav_order: 3
 
 ## presentations ##
 
-[2026]. Order selection: the logical foundations of exhaustivity. Talk presented at PhLiP 11. [handout](slides/orderselection-handout.pdf)
+[2026]. Order selection: the logical foundations of exhaustivity. Talk presented at the Stanford Construction of Meaning Workshop. [handout](slides/orderselection-handout.pdf)
 
-[2026]. Order selection: the logical foundations of exhaustivity. Doctoral defense at the University of Chicago. [handout](slides/defense.pdf)
+[2026]. Order selection: the logical foundations of exhaustivity. Talk presented at PhLiP 11. [handout](slides/orderselection-handout.pdf)
 
 [2025]. Sanghee J. Kim, **Lucas Fagen** & Ming Xiang. Variation in reflexive processing across constructions and individuals. Poster presented at HSP 38. [poster](slides/hsp2025-poster.pdf)
 
